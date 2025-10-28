@@ -4,8 +4,8 @@
 **Mata Kuliah: Advanced Computer Vision**
 
 **Data Mahasiswa**
-**Nama : Daniel Giovanni Damara**
-**NIM : 241012000118**
+**Nama : Daniel Giovanni Damara** |
+**NIM : 241012000118** |
 **Kelas : 03MKME002**
 
 ---
