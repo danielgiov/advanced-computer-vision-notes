@@ -14,7 +14,7 @@ Rangkuman mencakup 6 topik utama:
 
 ## 📄 File
 
-- **[Rangkuman-Advanced-Computer-Vision.md](./Rangkuman-Advanced-Computer-Vision.md)** - Rangkuman lengkap dalam format Markdown
+- **[Rangkuman-Advanced-Computer-Vision.md](./Article-Advanced-Computer-Vision.md)** - Rangkuman lengkap dalam format Markdown
 
 ## 🛠️ Teknologi yang Dibahas
 
